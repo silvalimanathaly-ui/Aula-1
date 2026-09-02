@@ -1,6 +1,6 @@
 body{
   background-color: seashell;
-  color: rgb(195, 7, 116);
+  color: rgb(7, 151, 195);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -21,7 +21,7 @@ img{
    }
 a{
   text-decoration: none;
-  color: maroon;
+  color: rgb(7, 107, 132);
   text-align: center;
 }
 a:hover{
